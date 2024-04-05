@@ -1,0 +1,133 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+
+}
+
+
+
+
+  html {
+  background-color: black;
+} 
+p { color: rgba(255, 255, 255, 0.48); font-family:SF Pro Display Medium;
+  font-size: 20px; margin-top: 16px; margin-bottom: 24px; width: 570px; height: 48px;} 
+
+h1 { font-family:SF Pro Display Medium ; font-size: 48.83px; color: white ; margin-bottom: 0px; width: 570px; height: 104px; margin-top: 160px;  }
+
+.text1 {color: rgba(255, 255, 255, 0.48); }
+.button span{font-family: SF Pro Display Bold; border-radius: 8px;
+  padding: 16px 32px;
+  width: 188px;
+  height: 56px;
+  color: white;
+  text-decoration: none;
+  display: block;
+  background-color: black;
+  
+  }
+
+  .button {
+  font-size: 16px;
+  line-height: 150%;
+  font-family: SF Pro Display Bold;
+  text-align: center;
+  background-color: transparent;
+  background-clip: padding-box;
+  border-radius: 8%;
+  border-width: 3px;
+  border-style: solid;
+  background-image: linear-gradient(90deg, #FF6B00, #DB00FF);
+  border: 0;
+  padding: 2px;
+  color: white;
+  }
+
+.center1 {
+  height: 540px;
+  line-height: normal;
+  
+  position: relative;
+        
+        
+   
+}
+
+.All_header_menu li{
+  display: inline-block;
+  font-family:SF Pro Display Bold ;
+  font-size: 16px;
+  color:white;
+  opacity: 0.48;
+  background-color: black;
+  margin-top: 24px;
+  
+  
+}
+header {
+  background-color: black;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+ /*.header1 {
+  padding: 16px 16px 16px 0px;
+  display: inline-block;
+  font-family:SF Pro Display Bold ;
+  font-size: 16px;
+  color:white;
+  opacity: 0.48;
+  background-color: aqua;
+  
+}*/
+.header1 {
+  padding: 16px 16px 16px 0px;
+}
+.header2 {
+  padding: 16px;
+}
+.header3 {
+  padding: 16px;
+}
+.header4 {
+  padding: 16px;
+}
+ul{
+  padding-left: 0px;
+}
+.custom-gif {
+  width: 540px;
+  height: 402px;
+
+}
+
+.image1 {
+  max-width: 100%;
+  float: right;
+  height: 320px;
+  width: 320px;
+}
+
+.comments {
+  margin-bottom: 50px;
+}
+
+h2{
+  color: white;
+  font-size: 39.06px;
+  font-family:SF Pro Display Medium;
+}
+
+
+
+
+
+  
+
